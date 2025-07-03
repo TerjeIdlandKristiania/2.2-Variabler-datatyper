@@ -1,10 +1,20 @@
 {
-  "name": "autograding-js",
+  "name": "2.2-variabler-datatyper",
   "version": "1.0.0",
+  "description": "Oppgave om variabler og datatyper i JavaScript - GitHub Classroom autograding",
+  "main": "variabelDatatype.js",
   "scripts": {
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^29.0.0"
-  }
+    "jest": "^30.0.4"
+  },
+  "keywords": [
+    "javascript",
+    "variabler",
+    "datatyper",
+    "autograding"
+  ],
+  "author": "Kristiania",
+  "license": "MIT"
 }

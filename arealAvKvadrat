@@ -1,0 +1,26 @@
+//Her er variabelen "side" definert. Den har fått verdien 4.
+let side = 4;
+
+//Her definerer vi variabelen "arealAvKvadrat" og gir den verdi 
+//fra resultat av utregningen "side*side".
+let arealAvKvadrat = side*side;
+
+//Her skrives resultatet ut til konsollen. 
+console.log("Arealet av kvadratet er ",arealAvKvadrat);
+
+//For å kjøre koden i VSCode, installer utvidelsen "Code Runner" av Jun Han.
+//Bruk deretter hurtigtast: Ctrl+Alt+N for å kjøre koden.
+
+//Oppgave: 
+//Endre verdien på variabelen side til 6.
+//Sjekk at du får skrevet ut svaret 36 i Output-vinduet
+//Klikk på ikon for "Source control", skriv inn en 
+//kort kommentar til innleveringen og klikk på knappen "Commit".
+
+
+//Her er en kodesnutt som skal sørge for at automatisk testing av koden fungerer. Ikke rør.
+function areal(side) {
+  return side * side;
+}
+
+module.exports = { areal };

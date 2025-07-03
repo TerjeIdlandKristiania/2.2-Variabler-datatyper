@@ -1,2 +1,2 @@
-# 2.1-Variabler
-Innlevering av oppgave via GitHub Classroom. Oppgave om variabler i JavaScript.
+# 2.2-Variabler-datatyper
+Innlevering av oppgave via GitHub Classroom. Oppgave om å definere variabler med ulike datatyper i JavaScript.
